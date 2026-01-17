@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AssaultCubeMenu/AssaultCubeMenu.vcxproj" Id="02454e7c-0325-448e-bda5-9fbdd3301bbb" />
+</Solution>
